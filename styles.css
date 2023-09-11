@@ -1,0 +1,30 @@
+* {
+  background-color: rgb(8, 136, 168);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .h1 {
+  font-family: monospace;
+  font-size: 100px;
+  color: aliceblue;
+}
+
+.container .h2 {
+  font-family: monospace;
+  font-size: 60px;
+  text-decoration: none;
+}
+
+.fizz {
+  color: rgb(255, 140, 0);
+}
+
+.buzz {
+  color: rgb(85, 255, 0);
+}

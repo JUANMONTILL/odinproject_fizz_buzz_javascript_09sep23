@@ -1,22 +1,20 @@
-![](https://img.shields.io/badge/Uneweb-blue)
+# Fizz Buzz
 
-# Project Name
+> A program that takes input from a user and prints the numbers from one to the number the user entered. For multiples of three it prints Fizz instead of the number and for multiples of five it prints Buzz. For numbers that are multiples of three and five it prints FizzBuzz.
 
-> One paragraph statement about the project.
+![screenshot](/Screenshot_2023-09-10_19-20-17.png)
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](/Screenshot_2023-09-10_19-27-17.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- JavaScript
+- CSS
+- HTML
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://juanmontill.github.io/odinproject_fizz_buzz_javascript_09sep23/)
 
 
 ## Getting Started
@@ -48,17 +46,11 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@JUANMONTILL](https://github.com/JUANMONTILL)
 - Instagram: [@juanfranc_31](https://instagram.com/juanfranc_31)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/JUANMONTILL/odinproject_fizz_buzz_javascript_09sep23/issues).
 
 ## Show your support
 
@@ -66,9 +58,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- My family
+- My Teachers
+- The Odin Project
 
 ## 📝 License
 
